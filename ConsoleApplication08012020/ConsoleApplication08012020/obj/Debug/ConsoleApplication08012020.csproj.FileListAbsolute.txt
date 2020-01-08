@@ -1,0 +1,6 @@
+D:\B1607007\ConsoleApplication08012020\ConsoleApplication08012020\bin\Debug\ConsoleApplication08012020.exe.config
+D:\B1607007\ConsoleApplication08012020\ConsoleApplication08012020\obj\Debug\ConsoleApplication08012020.csprojResolveAssemblyReference.cache
+D:\B1607007\ConsoleApplication08012020\ConsoleApplication08012020\bin\Debug\ConsoleApplication08012020.exe
+D:\B1607007\ConsoleApplication08012020\ConsoleApplication08012020\bin\Debug\ConsoleApplication08012020.pdb
+D:\B1607007\ConsoleApplication08012020\ConsoleApplication08012020\obj\Debug\ConsoleApplication08012020.exe
+D:\B1607007\ConsoleApplication08012020\ConsoleApplication08012020\obj\Debug\ConsoleApplication08012020.pdb
